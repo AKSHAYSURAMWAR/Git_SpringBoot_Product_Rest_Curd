@@ -90,4 +90,10 @@ public class ProductController {
 		return pagingAndSorting;
 	}
 	
+	
+	public void demoAddMethod() {
+		
+		
+	}
+	
 }
